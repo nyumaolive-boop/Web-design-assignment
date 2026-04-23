@@ -37,4 +37,14 @@ It is designed to demonstrate fundamental HTML structure and content organizatio
 
 ---
 
-## 📂 File Structure  
+## 📂 File Structure 
+
+## Screenshots
+
+<img width="975" height="563" alt="image" src="https://github.com/user-attachments/assets/7f723117-3ae3-4321-9af0-ed93a4dbe555" />
+
+<img width="975" height="479" alt="image" src="https://github.com/user-attachments/assets/ffbbded1-bce0-4193-a672-54bcbc0a4945" />
+
+<img width="975" height="473" alt="image" src="https://github.com/user-attachments/assets/08312cab-8c68-4d5b-8c47-b291b6ddd82d" />
+
+<img width="975" height="470" alt="image" src="https://github.com/user-attachments/assets/ff1e39ed-fda7-4ca4-ab0a-b39ff8bd07a9" />
